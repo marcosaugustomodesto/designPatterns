@@ -1,0 +1,37 @@
+
+# Logs
+logs
+log
+*.log
+npm-debug.log*
+.DS_Store
+# ----- JAVA -----
+*.class
+.recommenders
+target/
+*.meta/
+*.settings/
+*.classpath
+*.jsdtscope
+bin/
+.metadata
+.project
+*~
+*.swp
+.env
+.eclipse-pmd
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Exec Files #
+*.exe
+*.dll
+
+.idea/
+*.iml
+*.bak
+*.bkp
