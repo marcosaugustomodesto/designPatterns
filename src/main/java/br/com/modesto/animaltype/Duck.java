@@ -1,4 +1,4 @@
-package br.com.modesto.ducktype;
+package br.com.modesto.animaltype;
 
 import br.com.modesto.behavior.FlyBehavior;
 import br.com.modesto.behavior.QuackBehavior;

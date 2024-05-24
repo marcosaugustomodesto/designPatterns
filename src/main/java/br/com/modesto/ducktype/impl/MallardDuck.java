@@ -1,8 +1,8 @@
 package br.com.modesto.ducktype.impl;
 
+import br.com.modesto.animaltype.Duck;
 import br.com.modesto.behavior.impl.FlyWithWings;
 import br.com.modesto.behavior.impl.QuackSound;
-import br.com.modesto.ducktype.Duck;
 
 public class MallardDuck extends Duck {
     public MallardDuck() {
